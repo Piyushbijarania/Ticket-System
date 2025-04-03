@@ -1,0 +1,28 @@
+.layout {
+  min-height: 100vh;
+}
+
+.ant-layout-header {
+  display: flex;
+  align-items: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.ant-card {
+  margin-bottom: 16px;
+}
+
+.ant-list-item {
+  margin-bottom: 16px;
+}
+
+.ant-tag {
+  margin-bottom: 8px;
+}
+
+/* Remove or adjust the width property if causing layout issues */
+.ant-space {
+    /* width: 100%; */ /* Commented out */
+    display: flex;
+    gap: 16px;
+}

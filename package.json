@@ -1,0 +1,53 @@
+{
+  "name": "aptos-ticket-system",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^5.0.1",
+    "@aptos-labs/ts-sdk": "^1.37.1",
+    "@aptos-labs/wallet-adapter-ant-design": "^4.0.10",
+    "@aptos-labs/wallet-adapter-core": "^5.3.0",
+    "@aptos-labs/wallet-adapter-react": "^5.0.1",
+    "antd": "^5.0.0",
+    "aptos": "^1.21.0",
+    "petra-plugin-wallet-adapter": "^0.1.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "typescript": "^4.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/node": "^16.18.126",
+    "@types/react": "^18.3.20",
+    "@types/react-dom": "^18.3.5",
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.0.0",
+    "eslint": "^8.0.0",
+    "eslint-plugin-react": "^7.0.0",
+    "eslint-plugin-react-hooks": "^4.0.0"
+  }
+}

@@ -1,0 +1,9 @@
+[package]
+name = "aptos_ticket_system"
+version = "1.0.0"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "mainnet" }
+
+[addresses]
+aptos_ticket_system = "0x34887e4e34d592107ccfcde1fae45bff974adb498b577f40eaafc673cde385c1"
