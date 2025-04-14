@@ -2,6 +2,8 @@
 
 A decentralized ticketing system built on the Aptos blockchain. This project allows users to create events, purchase tickets, and manage event data securely using smart contracts.
 
+![WhatsApp Image 2025-04-03 at 23 19 21_bebb63a3](https://github.com/user-attachments/assets/f0df2acb-bc42-4b1f-ba21-b1a735eaa552)
+
 ---
 
 ## Features
@@ -55,6 +57,7 @@ npm start
 ## Contract Address
 The deployed contract address is: `0x34887e4e34d592107ccfcde1fae45bff974adb498b577f40eaafc673cde385c1`
 ![WhatsApp Image 2025-04-03 at 23 19 21_bebb63a3](https://github.com/user-attachments/assets/f0df2acb-bc42-4b1f-ba21-b1a735eaa552)
+
 
 ---
 
